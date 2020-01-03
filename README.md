@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/rh227x/Space%20Game%20-%20Web%20-%20Pipeline/_apis/build/status/rhill67.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/rh227x/Space%20Game%20-%20Web%20-%20Pipeline/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
